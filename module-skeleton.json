@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-directadmin-flutter",
+  "capabilityKey": "liberusoftware/billing-directadmin",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_directadmin_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-directadmin.md",
+  "presentationPlan": "projects/billing/flutter/module-billing-directadmin.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
